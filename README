@@ -1,1 +1,1 @@
-A custom gremlin-server docker image with string IDs and graceful shutdown.
+A slightly modded version of Gremlin Server that behaves a bit more like AWS Neptune
