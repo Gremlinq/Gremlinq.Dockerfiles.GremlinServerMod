@@ -1,4 +1,4 @@
-﻿FROM tinkerpop/gremlin-server:3.7.6
+﻿FROM tinkerpop/gremlin-server:3.7.7
 
 WORKDIR /opt/gremlin-server
 COPY ./conf/tinkergraph.properties ./conf/
